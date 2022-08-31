@@ -1,3 +1,2 @@
 #!bin/bash"
-echo
-very good
+echo "very good"
