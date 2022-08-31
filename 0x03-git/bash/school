@@ -1,2 +1,5 @@
+update_script
+#!bin/bash"
 #!bin/bash
 echo
+master
