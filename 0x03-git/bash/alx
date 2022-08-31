@@ -1,4 +1,1 @@
-#!/bin/bash
-"I am so cool!"
-"now we go"
-
+echo "ALX School is so cool!"
