@@ -1,4 +1,4 @@
-#!bin/bash
-echo "I am so cool!"
+#!/bin/bash
+"I am so cool!"
 "now we go"
 
