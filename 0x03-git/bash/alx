@@ -1,2 +1,8 @@
 #!bin/bash
+<<<<<<< HEAD
 echo
+=======
+
+echo "ALX Schoiol cool!"
+
+>>>>>>> 2387ea7dab968974eff1fbd17a7cf857aac71fbb
